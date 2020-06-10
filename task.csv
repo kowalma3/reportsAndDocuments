@@ -1,9 +1,14 @@
 Task,Start,Finish,Complete,Resource
 Meetings with CS teams,2020-01-01,2020-01-31,100,A
 EDI calls for SE,2020-02-01,2020-03-01,100,A
-Calls SE,2020-02-01,2020-07-01,10,C
-LVISNet orders FI,2020-04-01,2020-05-01,0,A
-Kesko e-archive requests FI,2020-04-01,2020-05-01,0,A
-Prehandling FI,2020-04-01,2020-07-01,7,A
-BNP report,2020-02-20,2020-04-01,20,A
+LVISNet orders FI,2020-04-01,2020-05-01,100,A
+Kesko e-archive requests FI,2020-04-01,2020-05-01,100,A
+Prehandling FI,2020-04-01,2020-07-01,85,A
+Migration to new server,2020-07-01,2020-07-31,0,A
+Adding language recognition to current Exela task solution,2020-07-01,2020-07-31,0,A
+Improvenig EDI incident solution to solve up to 75%,2020-06-15,2020-07-15,0,A
+Monitoring for current solutions,2020-07-01,2020-07-31,0,A
+First data analysis for Prehandling SE, 2020-08-01,2020-09-31,0,A
+Vacation,2020-09-01,2020-09-20,0,A
+Prehandling SE,2020-10-01,2020-12-31,0,A
 continius improvement/code refactoryzation,2020-01-01,2020-12-31,20, A
